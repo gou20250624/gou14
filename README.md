@@ -64,4 +64,4 @@ Telegram频道传送门：精选各类热门Telegram频道入口，涵盖资讯�
 社会影响：
 
 《黑料大事记》系统梳理娱乐圈与网红圈的重大事件，全程记录从爆料爆发到舆论发酵的完整时间线，内容真实详尽，结构清晰。它不仅帮助吃瓜群众回顾每一次引发热议的“世纪大瓜”，更成为追溯舆论演变与了解行业内幕的权威工具平台。
-[Canonical link](https://github.com/gou20250624/gou2 ）
+[Canonical link](https://github.com/gou20250624/gou14 ）
